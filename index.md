@@ -2,7 +2,7 @@
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
